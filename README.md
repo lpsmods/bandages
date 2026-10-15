@@ -19,7 +19,7 @@ This repository has multiple branches for each platform this Minecraft mod suppo
 | Key       | Value           |
 | --------- | --------------- |
 | namespace | `lpsm_bandages` |
-| bandages  | `bandages`      |
+| slug      | `bandages`      |
 
 ## LINKS
 
